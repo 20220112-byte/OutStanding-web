@@ -17,7 +17,7 @@
     "name": "こんぶ",
     "part": "Guitar",
     "bio": "メインギター",
-    "image": "/static/img/members/Konbu.jpg",
+    "image": "/static/img/members/konbu.JPG",
     "links": [{ "url": "https://www.instagram.com/tarou01116/" }]
   },
   {
@@ -31,7 +31,7 @@
     "name": "周",
     "part": "Drums / Bass",
     "bio": "ドラム＆ベース",
-    "image": "/static/img/members/Shu.jpg",
+    "image": "/static/img/members/shu.JPG",
     "links": [{ "url": "https://www.instagram.com/am.ane5175/" }]
   },
   {
@@ -42,3 +42,4 @@
     "links": [{ "url": "https://www.instagram.com/shimo_tomo.0104/" }]
   }
 ]
+

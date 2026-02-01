@@ -1,0 +1,20 @@
+[
+  {
+    "name": "OutStanding ロゴTシャツ",
+    "image": "/static/img/goods/tshirt.jpg",
+    "note": "2000-2600円(注文数によって変わります)",
+    "contact": "https://www.instagram.com/outstanding_paka/"
+  },
+  {
+    "name": "OutStanding パーカー",
+    "image": "/static/img/goods/hoodie.jpg",
+    "note": "5999円(税込)",
+    "contact": "https://www.instagram.com/outstanding_paka/"
+  },
+  {
+    "name": "OutStanding タオル",
+    "image": "/static/img/goods/towel.jpg",
+    "note": "発売予定",
+    "contact": "https://www.instagram.com/outstanding_paka/"
+  }
+]

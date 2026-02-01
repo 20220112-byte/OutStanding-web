@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Fender Squier Sonic Telecaste California Blue",
+    "player": "けんせい",
+    "note": "メインギター",
+    "image": "/static/img/instruments/toda.guitar.jpg",
+    "url": "https://jp.fender.com/products/squier-sonic-telecaster"
+  },
+  {
+    "name": "BACCHUS BJB-1-RSM",
+    "player": "マサト",
+    "note": "メインベース",
+    "image": "/static/img/instruments/koge.bass.jpg",
+    "url": "https://www.amazon.co.jp/dp/B08QJHFDMX/ref=twister_B08QJG71Z9?_encoding=UTF8&th=1"
+  },
+
+  {
+    "name": "SCHECTER OL-ST-22-MH",
+    "player": "こんぶ",
+    "note": "メインギター",
+    "image": "/static/img/instruments/konbu.guitar.jpg",
+    "url": "https://store.shimamura.co.jp/ec/pro/disp/1/tp075-0313540"
+  },
+  {
+    "name": "Nord stage3",
+    "player": "しいのき",
+    "note": "キーボード",
+    "image": "/static/img/instruments/shiinoki.keyboard.jpg",
+    "url": "https://www.amazon.co.jp/Nord-Stage-Compact-73%E9%8D%B5-%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/dp/B06Y4DMSN9"
+  },
+ 
+  {
+    "name": "YAMAHA PACIFICA112V",
+    "player": "しいのき",
+    "note": "ギター",
+    "image": "/static/img/instruments/shiinoki.guitar.jpg",
+    "url": "https://www.amazon.co.jp/%E3%83%A4%E3%83%9E%E3%83%8F-%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC-PACIFICA-PAC112VMX-YNS/dp/B00318GUWA?th=1"
+  },
+
+  {
+    "name": "Roland TD713SC-S",
+    "player": "周",
+    "note": "メインドラム",
+    "image": "/static/img/instruments/shu.drum.jpg",
+    "url": "https://www.roland.com/jp/products/td713/"
+  },
+
+  {
+    "name": "YAMAHA BB234",
+    "player": "周",
+    "note": "メインベース",
+    "image": "/static/img/instruments/shu.bass.jpg",
+    "url": "https://jp.yamaha.com/products/musical_instruments/guitars_basses/el_basses/bb_2017/200_series.html"
+  }
+
+]
+
+
